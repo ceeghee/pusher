@@ -16,3 +16,4 @@ var array=[];/*initializing an array*/
                 index=3;
                 array.splice(index,3); /*Deleting array content individually by index*/
 console.log(array[3]);
+console.log(array[3]);
