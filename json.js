@@ -28,3 +28,4 @@ var customer={
 // customer.name="Mike Ross";/*Editing Json attribute value*/
     // customer['id']="dfgdfhhjdbfjhbdhbfjh";/*inserting new data into json object */
 console.log(customer);
+console.log(customer);
