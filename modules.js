@@ -8,4 +8,4 @@
    
  }
 
- module.exports.calculate=calculate;
+ // module.exports.calculate=calculate;

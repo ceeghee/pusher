@@ -3,6 +3,7 @@
  * @type {Array}
  */
 // i am a comment
+// i am a comment
 var array=[];/*initializing an array*/
 // var array= new Array();/*initializing an array*/
         array.push(10);/*noda method of inserting array content*/
